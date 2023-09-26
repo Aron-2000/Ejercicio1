@@ -1,0 +1,4 @@
+1. Cree el Repositorio Ejercicio 1 en GitHub de manera publica
+2. Aprete el boton "Set up In Desktop"
+3.Abrio el programa Github Desktop
+4.le di a clonar
