@@ -1,0 +1,4 @@
+1.Creas un archivo local
+2.le das al boton "Commit to Main"
+3.Le doy a "Fench Origin"
+4.Subes el archivo a la nube
